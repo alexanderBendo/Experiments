@@ -1,3 +1,5 @@
+exp0003: Quick webserver using Mojolicious for serving static files
+
 exp0002: Blacklist search benchmark (file grep vs mmap)
 
 exp0001: Mojolicious user authentication and sessions using accounts stored
